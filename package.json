@@ -1,0 +1,25 @@
+{
+  "name": "amz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-product-api": "^0.4.4",
+    "apac": "^3.0.2",
+    "async": "^2.5.0",
+    "base-64": "^0.1.0",
+    "cheerio": "^1.0.0-rc.2",
+    "crypto": "^1.0.1",
+    "express": "^4.16.1",
+    "js-sha256": "^0.6.0",
+    "request": "^2.83.0",
+    "sort-object-keys": "^1.1.2",
+    "urlencode": "^1.1.0"
+  }
+}
